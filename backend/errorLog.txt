@@ -1,0 +1,152 @@
+TypeError: this.con(...).query(...).then is not a function
+    at User.showUserData (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\models\User.js:53:10)
+    at userController.show (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\controllers\userController.js:11:18)
+    at Server.<anonymous> (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\server.js:42:30)
+    at Server.emit (node:events:390:28)
+    at parserOnIncoming (node:_http_server:951:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:128:17)
+
+TypeError: this.con(...).query(...).then is not a function
+    at User.showUserData (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\models\User.js:53:10)
+    at userController.show (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\controllers\userController.js:11:18)
+    at Server.<anonymous> (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\server.js:42:30)
+    at Server.emit (node:events:390:28)
+    at parserOnIncoming (node:_http_server:951:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:128:17)
+
+TypeError: this.con(...).query(...).then is not a function
+    at User.showUserData (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\models\User.js:53:10)
+    at userController.show (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\controllers\userController.js:11:18)
+    at Server.<anonymous> (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\server.js:42:30)
+    at Server.emit (node:events:390:28)
+    at parserOnIncoming (node:_http_server:951:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:128:17)
+
+TypeError: this.con(...).query(...).then is not a function
+    at User.showUserData (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\models\User.js:53:10)
+    at userController.show (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\controllers\userController.js:11:18)
+    at Server.<anonymous> (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\server.js:42:30)
+    at Server.emit (node:events:390:28)
+    at parserOnIncoming (node:_http_server:951:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:128:17)
+
+TypeError: this.con(...).query(...).then is not a function
+    at User.showUserData (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\models\User.js:53:10)
+    at userController.show (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\controllers\userController.js:11:18)
+    at Server.<anonymous> (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\server.js:42:30)
+    at Server.emit (node:events:390:28)
+    at parserOnIncoming (node:_http_server:951:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:128:17)
+
+TypeError: this.con(...).query(...).then is not a function
+    at User.showUserData (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\models\User.js:53:10)
+    at userController.show (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\controllers\userController.js:11:18)
+    at Server.<anonymous> (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\server.js:42:30)
+    at Server.emit (node:events:390:28)
+    at parserOnIncoming (node:_http_server:951:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:128:17)
+
+TypeError: this.con(...).query(...).then is not a function
+    at User.showUserData (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\models\User.js:53:10)
+    at userController.show (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\controllers\userController.js:11:18)
+    at Server.<anonymous> (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\server.js:42:30)
+    at Server.emit (node:events:390:28)
+    at parserOnIncoming (node:_http_server:951:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:128:17)
+
+TypeError: this.con(...).query(...).then is not a function
+    at User.showUserData (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\models\User.js:53:10)
+    at userController.show (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\controllers\userController.js:11:18)
+    at Server.<anonymous> (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\server.js:42:30)
+    at Server.emit (node:events:390:28)
+    at parserOnIncoming (node:_http_server:951:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:128:17)
+
+TypeError: this.con(...).query(...).then is not a function
+    at User.showUserData (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\models\User.js:53:10)
+    at userController.show (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\controllers\userController.js:11:18)
+    at Server.<anonymous> (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\server.js:42:30)
+    at Server.emit (node:events:390:28)
+    at parserOnIncoming (node:_http_server:951:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:128:17)
+
+TypeError: this.con(...).query(...).then is not a function
+    at User.showUserData (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\models\User.js:53:10)
+    at userController.show (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\controllers\userController.js:11:18)
+    at Server.<anonymous> (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\server.js:42:30)
+    at Server.emit (node:events:390:28)
+    at parserOnIncoming (node:_http_server:951:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:128:17)
+
+TypeError: this.con(...).query(...).then is not a function
+    at User.showUserData (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\models\User.js:53:10)
+    at userController.show (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\controllers\userController.js:11:18)
+    at Server.<anonymous> (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\server.js:42:30)
+    at Server.emit (node:events:390:28)
+    at parserOnIncoming (node:_http_server:951:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:128:17)
+
+TypeError: this.con(...).query(...).then is not a function
+    at User.showUserData (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\models\User.js:53:10)
+    at userController.show (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\controllers\userController.js:11:18)
+    at Server.<anonymous> (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\server.js:42:30)
+    at Server.emit (node:events:390:28)
+    at parserOnIncoming (node:_http_server:951:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:128:17)
+
+TypeError: this.con(...).query(...).then is not a function
+    at User.showUserData (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\models\User.js:53:10)
+    at userController.show (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\controllers\userController.js:11:18)
+    at Server.<anonymous> (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\server.js:42:30)
+    at Server.emit (node:events:390:28)
+    at parserOnIncoming (node:_http_server:951:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:128:17)
+
+TypeError: this.con(...).query(...).then is not a function
+    at User.showUserData (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\models\User.js:53:10)
+    at userController.show (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\controllers\userController.js:11:18)
+    at Server.<anonymous> (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\server.js:42:30)
+    at Server.emit (node:events:390:28)
+    at parserOnIncoming (node:_http_server:951:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:128:17)
+
+TypeError: this.con(...).query(...).then is not a function
+    at User.showUserData (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\models\User.js:53:10)
+    at userController.show (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\controllers\userController.js:11:18)
+    at Server.<anonymous> (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\server.js:42:30)
+    at Server.emit (node:events:390:28)
+    at parserOnIncoming (node:_http_server:951:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:128:17)
+
+TypeError: this.con(...).query(...).then is not a function
+    at User.showUserData (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\models\User.js:53:10)
+    at userController.show (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\controllers\userController.js:11:18)
+    at Server.<anonymous> (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\server.js:42:30)
+    at Server.emit (node:events:390:28)
+    at parserOnIncoming (node:_http_server:951:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:128:17)
+
+TypeError: this.con(...).query(...).then is not a function
+    at User.showUserData (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\models\User.js:53:10)
+    at userController.show (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\controllers\userController.js:11:18)
+    at Server.<anonymous> (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\server.js:42:30)
+    at Server.emit (node:events:390:28)
+    at parserOnIncoming (node:_http_server:951:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:128:17)
+
+TypeError: this.con(...).query(...).then is not a function
+    at User.showUserData (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\models\User.js:53:10)
+    at userController.show (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\controllers\userController.js:11:18)
+    at Server.<anonymous> (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\server.js:42:30)
+    at Server.emit (node:events:390:28)
+    at parserOnIncoming (node:_http_server:951:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:128:17)
+
+TypeError: this.con(...).query(...).then is not a function
+    at User.showUserData (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\models\User.js:53:10)
+    at userController.show (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\controllers\userController.js:11:18)
+    at Server.<anonymous> (C:\Users\USER\Desktop\WorkFile\reactstuff\backend\server.js:42:30)
+    at Server.emit (node:events:390:28)
+    at parserOnIncoming (node:_http_server:951:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:128:17)
+
